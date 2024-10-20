@@ -1,0 +1,19 @@
+---
+# https://pre-commit.com/#top_level-default_language_version
+default_language_version:
+  python: python3.12
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: check-toml
+      - id: trailing-whitespace
+  - repo: https://github.com/crate-ci/typos
+    rev: v1.26.0
+    hooks:
+      - id: typos
+  # - repo: https://github.com/thlorenz/doctoc
+  #   rev: v2.2.0
+  #   hooks:
+  #     - id: doctoc
