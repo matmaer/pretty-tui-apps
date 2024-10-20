@@ -4,6 +4,6 @@ list of pretty terminal user interface applications
 Requirements:
 - pretty
 - runs in the terminal
-- active or kind of
+- active project or kind of
 - have a release
 - be pretty
