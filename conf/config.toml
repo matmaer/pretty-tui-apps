@@ -1,4 +1,5 @@
 [sources]
 TUI-apps = "https://github.com/learnbyexample/TUI-apps"
 awesome-tuis = "https://github.com/matmaer/awesome-tuis"
+ghsearch = "https://github.com/search?q=%22from+textual.app+import%22+-org%3ATextualize+language%3APython++NOT+is%3Aarchived+path%3A*.py+NOT+is%3Afork&type=code"
 textualize = "https://www.textualize.io/projects/"
