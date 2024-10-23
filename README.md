@@ -9,6 +9,4 @@ Requirements:
 - be pretty
 
 Frameworks:
-https://star-history.com/#Textualize/textual&textualize/rich&streamlit/streamlit&tqdm/tqdm&google/python-fire&pallets/click&tiangolo/typer&Date
-to add: 
-https://github.com/bczsalba/pytermgui
+https://star-history.com/#Textualize/textual&textualize/rich&streamlit/streamlit&tqdm/tqdm&google/python-fire&pallets/click&tiangolo/typer&Date&charmbracelet/bubbletea
