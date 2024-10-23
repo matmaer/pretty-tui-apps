@@ -9,4 +9,4 @@ Requirements:
 - be pretty
 
 Frameworks:
-https://star-history.com/#Textualize/textual&textualize/rich&streamlit/streamlit&tqdm/tqdm&google/python-fire&pallets/click&tiangolo/typer&Date&charmbracelet/bubbletea
+https://star-history.com/#Textualize/textual&textualize/rich&streamlit/streamlit&tqdm/tqdm&google/python-fire&pallets/click&tiangolo/typer&Date&charmbracelet/bubbletea&urwid/urwid
